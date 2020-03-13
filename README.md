@@ -6,14 +6,19 @@ This repository contains testing code for the proposed Laplacian-Re-Decompositio
 #### Matlab
 We use Matlab 2019b for our implementation.
 
-## Running
+## Usage
 Our current release has been tested on Win 10.
+
+#### Downloading the repository
+First, select the *Clone or download* button to download this repository.
+#### Running
+Then, select the **LRD_fusion_method.m** file to run.
+
 
 
 
 # Installation and operation
 
-* Download and install the **Matlab 2019b** operating environment.
 * Select the *Clone or download* button to download the code and data set.
 * Select the **LRD_fusion_method.m** file to run.
 
