@@ -1,5 +1,5 @@
-# Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion (IEEE TIM)
- If you find this code is useful, please give us a star and cite our paper, have fun.
+# Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion
+This repository contains testing code for our paper presented at IEEE TIM 2020.
 
 # Installation and operation
 
