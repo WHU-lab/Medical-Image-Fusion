@@ -1,5 +1,5 @@
-# Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion
-This repository contains testing code for the proposed Laplacian-Re-Decomposition (LRD) presented at IEEE TIM 2020.
+# Laplacian Re Decomposition for Multimodal Medical Image Fusion
+This repository contains testing code for the proposed Laplacian-Re-Decomposition (LRD) multimodal medical image fusion method presented at IEEE TIM 2020.
 
 
 
