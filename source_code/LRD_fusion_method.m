@@ -1,8 +1,8 @@
 clc;clear;
 
 tic
-image_input1 = imread('images\medical-15-A.jpg');% image_input1 is MRI images
-image_input2 = imread('images\medical-15-B.jpg');% image_input1 is PET or SPECT images
+image_input1 = imread('source_images\medical-15-A.jpg');% image_input1 is MRI images
+image_input2 = imread('source_images\medical-15-B.jpg');% image_input1 is PET or SPECT images
 
 I1=double(image_input1)/255;
 I1 = min(1,max(0, imresize(I1,1)));  
