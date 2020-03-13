@@ -1,5 +1,10 @@
 # Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion
-This repository contains testing code for our paper presented at IEEE TIM 2020.
+This repository contains testing code for the proposed Laplacian-Re-Decomposition (LRD) presented at IEEE TIM 2020.
+![image](https://github.com/MDLW/Medical-Image-Fusion-Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion/blob/master/Schematic_Diagram/Fig1.png)
+  
+    Second: Schematic diagram of medical image fusion algorithm based on LRD decomposition scheme.
+![image](https://github.com/MDLW/Medical-Image-Fusion-Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion/blob/master/Schematic_Diagram/Fig2.png)
+
 
 # Installation and operation
 
