@@ -4,7 +4,7 @@
 
 * Download and install the Matlab 2019b operating environment.
 * Select the "Clone or download" button to download the code and data set.
-* Select the ll.m file to run
+* Select the LRD_fusion_method.m file to run.
 
 # Schematic Display
 
