@@ -2,9 +2,10 @@
 This repository contains testing code for the proposed Laplacian-Re-Decomposition (LRD) presented at IEEE TIM 2020.
 
 
-# Prerequisites
-## Matlab
+## Prerequisites
+#### Matlab
 We use Matlab 2019b for our implementation.
+
 
 # Installation and operation
 
