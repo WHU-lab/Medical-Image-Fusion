@@ -6,6 +6,10 @@ This repository contains testing code for the proposed Laplacian-Re-Decompositio
 #### Matlab
 We use Matlab 2019b for our implementation.
 
+## Running
+Our current release has been tested on Win 10.
+
+
 
 # Installation and operation
 
