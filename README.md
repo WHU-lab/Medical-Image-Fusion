@@ -3,7 +3,7 @@ This repository contains testing code for the proposed Laplacian-Re-Decompositio
 
 
 # Prerequisites
-# Matlab
+## Matlab
 We use Matlab 2019b for our implementation.
 
 # Installation and operation
