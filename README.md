@@ -1,21 +1,11 @@
 # Laplacian Re Decomposition for Multimodal Medical Image Fusion
-This repository contains testing code for the proposed Laplacian-Re-Decomposition (LRD) multimodal medical image fusion method presented at IEEE TIM 2020.
-
-
+This repository contains testing code for the proposed Laplacian-Re-Decomposition (LRD) presented at IEEE TIM 2020.
 
 # Installation and operation
 
 * Download and install the **Matlab 2019b** operating environment.
 * Select the *Clone or download* button to download the code and data set.
 * Select the **LRD_fusion_method.m** file to run.
-
-# Schematic Display
-
-    First: The schematic diagram of the Laplacian-Re-Decomposition(LRD).
-![image](https://github.com/MDLW/Medical-Image-Fusion-Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion/blob/master/Schematic_Diagram/Fig1.png)
-  
-    Second: Schematic diagram of medical image fusion algorithm based on LRD decomposition scheme.
-![image](https://github.com/MDLW/Medical-Image-Fusion-Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion/blob/master/Schematic_Diagram/Fig2.png)
 
 # Reference
 
@@ -26,5 +16,6 @@ This repository contains testing code for the proposed Laplacian-Re-Decompositio
         year={2020},
         publisher={IEEE}
     }
+    For any questions, please contact Xiaoxiao Li (lxxwxy@outlook.com).
 
 
