@@ -18,11 +18,11 @@ The field of multimodal medical image fusion has made huge progress in the past 
 
 # Reference
     @article{li2020laplacian,
-    title={Laplacian Re-Decomposition for Multimodal Medical Image Fusion},
-    author={Li, Xiaoxiao and Guo, Xiaopeng and Han, Pengfei and Wang, Xiang and Li, Huaguang and Luo, Tao},
-    journal={IEEE Transactions on Instrumentation and Measurement},
-    year={2020},
-    publisher={IEEE}
+        title={Laplacian Re-Decomposition for Multimodal Medical Image Fusion},
+        author={Li, Xiaoxiao and Guo, Xiaopeng and Han, Pengfei and Wang, Xiang and Li, Huaguang and Luo, Tao},
+        journal={IEEE Transactions on Instrumentation and Measurement},
+        year={2020},
+        publisher={IEEE}
     }
 
 
