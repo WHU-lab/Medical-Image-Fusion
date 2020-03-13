@@ -14,7 +14,7 @@ Download this repository.
 Run the **LRD_fusion_method.m** file.
 
 
-# Reference
+## Reference
 
     @article{li2020laplacian,
         title={Laplacian Re-Decomposition for Multimodal Medical Image Fusion},
