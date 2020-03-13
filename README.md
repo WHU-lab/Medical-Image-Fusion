@@ -1,8 +1,10 @@
 # Laplacian-Re-Decomposition-for-Multimodal-Medical-Image-Fusion (IEEE TIM)
 
-# Runtime Environment
+# Installation and operation
 
-    Matlab 2019b
+* Download and install the Matlab 2019b operating environment.
+* Select the "Clone or download" button to download the code and data set.
+* Select the ll.m file to run
 
 # Schematic Display
 
