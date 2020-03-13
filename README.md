@@ -17,8 +17,6 @@ This repository contains testing code for our paper presented at IEEE TIM 2020.
 
 # Reference
 
-If you use this code for your research, please cite our paper:
-
     @article{li2020laplacian,
         title={Laplacian Re-Decomposition for Multimodal Medical Image Fusion},
         author={Li, Xiaoxiao and Guo, Xiaopeng and Han, Pengfei and Wang, Xiang and Li, Huaguang and Luo, Tao},
