@@ -12,7 +12,7 @@ Our current release has been tested on Win 10.
 #### Step 1: Downloading
 Select the **'Clone or Download'** button in the upper right corner to download this repository.
 #### Step 2: Running
-Run the **LRD_fusion.m** script in the **source_code** folder.
+Run the **LRD_fusion_method.m** script in the **source_code** folder.
 
 
 ## Reference
