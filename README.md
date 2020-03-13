@@ -9,9 +9,9 @@ We use Matlab 2019b for our implementation.
 ## Usage
 Our current release has been tested on Win 10.
 
-#### Downloading the repository
-First, select the *Clone or download* button to download this repository.
-#### Running
+#### Step 1: Downloading the repository
+First, select the *Clone or download* button in the upper right corner to download this repository.
+#### Step 2: Running
 Then, select the **LRD_fusion_method.m** file to run.
 
 
