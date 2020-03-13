@@ -1,6 +1,11 @@
 # Laplacian Re Decomposition for Multimodal Medical Image Fusion
 This repository contains testing code for the proposed Laplacian-Re-Decomposition (LRD) presented at IEEE TIM 2020.
 
+
+# Prerequisites
+#Matlab
+We use Matlab 2019b for our implementation.
+
 # Installation and operation
 
 * Download and install the **Matlab 2019b** operating environment.
