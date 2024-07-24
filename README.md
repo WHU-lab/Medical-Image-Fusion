@@ -17,6 +17,7 @@ Run the **LRD_fusion_method.m** script in the **source_code** folder, the fusion
 
 ## Reference
 
+```bibtex
 @article{li2020laplacian,
   title={Laplacian redecomposition for multimodal medical image fusion},
   author={Li, Xiaoxiao and Guo, Xiaopeng and Han, Pengfei and Wang, Xiang and Li, Huaguang and Luo, Tao},
