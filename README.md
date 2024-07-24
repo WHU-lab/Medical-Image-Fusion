@@ -28,6 +28,7 @@ Run the **LRD_fusion_method.m** script in the **source_code** folder, the fusion
   year={2020},
   publisher={IEEE}
 }
+```
 
 Li X, Guo X, Han P, et al. Laplacian redecomposition for multimodal medical image fusion[J]. 
 IEEE Transactions on Instrumentation and Measurement, 2020, 69(9): 6880-6890.
